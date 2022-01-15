@@ -1,0 +1,7 @@
+Following should be the putput of the Python code:
+2 3 -----10
+4 6 -----20 
+----------- 
+-----------
+10 rows and 10 columns
+20 30 ------- 100
