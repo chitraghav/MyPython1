@@ -1,4 +1,4 @@
-def fruits():
+def fruit():
     vowels = ['a','e','i','o','u']
     word = input("Provide a word to search:")
     found ={}
@@ -20,4 +20,4 @@ def fruits():
     
 
 if __name__ == '__main__':
-    fruits()
+    fruit()
